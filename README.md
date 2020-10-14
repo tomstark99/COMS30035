@@ -10,7 +10,7 @@ $ /opt/anaconda3-4.4.0/bin/jupyter notebook
 
 For help on logging in remotely to Bristol machines see [here](https://uob.sharepoint.com/sites/itservices/SitePages/teaching-remote-access.aspx).
 
-| Lab | Labsheet |
-|-----|----------|
-| 1   | [Introduction to numpy and scikit learn](lab1/lab1-intro_to_numpy_scikitlearn.ipynb) |
-| 2   | [Linear models, neural networks and SVM](lab2/lab2-linear_models_neural_nets_SVM.ipynb ) |
+| Lab | Labsheet | Answers |
+|-----|----------|---------|
+| 1   | [Introduction to numpy and scikit learn](lab1/lab1-intro_to_numpy_scikitlearn.ipynb) | [Link|(lab1/lab1-intro_to_numpy_scikitlearn_answers.ipynb) |
+| 2   | [Linear models, neural networks and SVM](lab2/lab2-linear_models_neural_nets_SVM.ipynb ) | |
