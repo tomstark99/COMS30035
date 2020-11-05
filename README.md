@@ -16,3 +16,4 @@ For help on logging in remotely to Bristol machines see [here](https://uob.share
 | 2   | [Linear models, neural networks and SVM](lab2/lab2-linear_models_neural_nets_SVM.ipynb) | [Link](lab2/lab2-linear_models_neural_nets_SVM_answers.ipynb) |
 | 3   | [Probabilistic graphical models](lab3/lab3-Bayesian_Networks_MCMC_PyMC3.ipynb) | [Link](lab3/lab3-Bayesian_Networks_MCMC_PyMC3_answers.ipynb) |
 | 4   | [Mixture models, K-means and Expectation Maximisation](lab4/lab4-MixtureModels_K-means_Expectation-Maximisation.ipynb) | [Link](lab4/lab4-MixtureModels_K-means_Expectation-Maximisation_answers.ipynb) |
+| 5   | [PCA and ICA](lab5/Lab5_PCA_and_ICA.ipynb) |  |
